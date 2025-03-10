@@ -1,3 +1,9 @@
+# This fork is heavily modified to accept wav format
+
+### fixes:
+- added the value 8.0 to the <kdb>scale_vec</kbd> in <kbd>demo.py</kbd>
+- modified <kbd>audio_data()</kbd>
+
 # strf-like-model
 This repo contains scripts to compute STRF like representations. It's inspired from the NSL Toolbox (http://nsl.isr.umd.edu/downloads.html) but is in python.
 
